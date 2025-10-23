@@ -1,0 +1,202 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#1A3271",
+            "welcome-bonus-bg": "#F2F2F2",
+            "top-games-hover-fg": "#191a19",
+            "main-bg": "#ffffff",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#1A3271",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FF5050",
+            "yellow": "#39CC59",
+            "yellow-button": "#FF5050",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#F2F2F2",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#1A3271",
+            "faq-label": "#F2F2F2",
+            "bg-footer": "#1A3271",
+            "copyright": "#e7e7d5",
+            "starColor": "#39CC59",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/9",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino de Charlevoix",
+            "title": "Casino de Charlevoix | Casino, Hotel & Entertainment in La Malbaie, Quebec",
+            "description": "Discover Casino de Charlevoix \u2014 a luxurious casino nestled in the scenic Charlevoix region of Quebec. Slot machines, table games, Fairmont Le Manoir Richelieu hotel, fine dining, and exciting events await you!",
+            "canonical": "charlevoixcasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/204",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/194",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/205"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/195",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de Charlevoix Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Casino de Charlevoix \u2014 A Premier Gaming Resort in the Heart of Quebec",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/196",
+            "imageSizeModifier": 20,
+            "imageYModifier": -5,
+            "imageXModifier": 5,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/197",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Legal and safe casino",
+                "Wide selection of slot machines",
+                "Table games with live dealers",
+                "Elegant atmosphere and interior design",
+                "Direct access from Fairmont hotel",
+                "Regular themed gaming nights",
+                "VIP lounge for premium guests",
+                "Loyalty programs and casino bonuses"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Casino de Charlevoix App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/200",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Mobile App",
+            "mobileGooglePlayImageTitle": "Casino de Charlevoix App",
+            "mobileIosImageTitle": "Casino de Charlevoix App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Casino de Charlevoix",
+                "description1": "",
+                "items": [
+                    "Bonuses up to C$2,500 cash",
+                    "Jackpots up to C$250,000 daily",
+                    "VIP rewards and free credits"
+                ],
+                "description2": "Casino de Charlevoix is a stylish and scenic casino in La Malbaie, Quebec, offering a wide range of slot machines, table games, and generous bonuses. Connected to the luxurious Fairmont Le Manoir Richelieu, it features progressive jackpots up to C$250,000, themed gaming nights, and a rewarding VIP loyalty program.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/201",
+                "imageSizeModifier": 0,
+                "imageYModifier": 3,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Luxury Gaming and Unforgettable Entertainment in Quebec",
+                "description": "<p> Casino de Charlevoix is a unique blend of gaming excitement, luxury accommodations, and breathtaking landscapes in Quebec\u2019s Charlevoix region. Nestled on the Pointe-au-Pic hillside and connected to the iconic Fairmont Le Manoir Richelieu, this casino offers guests not only thrilling gaming experiences but also world-class leisure. The spacious gaming floor spans over 87,000 square feet and features more than 800 slot machines, including progressive jackpot slots reaching up to C$250,000, along with 20 classic table games such as roulette, blackjack, baccarat, and poker. Minimum bets start at just one cent, making it accessible for every type of player.<\/p>\n<br>\n<p> For culinary enthusiasts, the property boasts exceptional dining options. Le Saint-Laurent serves refined dishes and brunches, Le Bellerive offers a relaxed atmosphere, and St-Hubert sign\u00e9 Casino is famous for its signature rotisserie chicken and local flavors. Guests can unwind at Bar 21, known for its vibrant vibe and DJ sets, or enjoy live music in the cozy La Brise Bar.<\/p>\n<br>\n<p> Entertainment is at the heart of Casino de Charlevoix, with Party Mix Nights every Saturday, DJ Battle Fridays, and themed events including comedy shows and seasonal celebrations. Visitors can also take advantage of exclusive getaway packages, from romantic escapes to gourmet experiences and spa treatments featuring massages and hydrotherapy access.<\/p>\n<br>\n<p> The casino stands out for its generous bonuses and loyalty rewards. New players can claim up to C$2,500 and 125 free spins on popular slots. The Casino Privil\u00e8ges loyalty program offers four tiers\u2014Bronze, Silver, Gold, and Platinum\u2014each unlocking greater benefits, from complimentary dining and discounts to personal hosts and airfare reimbursements. Points can be redeemed for gaming credits, hotel stays, and show tickets, ensuring every wager brings added value.<\/p>\n<br>\n<p> Completing the experience, Fairmont Le Manoir Richelieu offers 405 Ch\u00e2teauesque-style rooms, a luxurious spa, pools, a fitness center, and a 27-hole golf course. Guests enjoy stunning views of the St. Lawrence River and the Laurentian Mountains, all just a 1 hour 45-minute drive from Quebec City, making it the perfect destination for both relaxation and entertainment.<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for Visiting Casino de Charlevoix\n<\/h3>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Age Requirement<\/h4>\n        <p>\n         Entry is permitted only to individuals 18 years and older. This is a legal requirement in Quebec. Guests must present valid identification upon arrival.\n        <\/p>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Identification Documents<\/h4>\n        <p>\n         A government-issued photo ID is required for entry. Accepted documents include a passport, driver\u2019s license, or official ID card. Without proper ID, access will be denied.\n        <\/p><br>\n \n          <h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code<\/h4>\n        <p>\n       The casino maintains a casual but neat dress code. Sportswear, beachwear, and clothing with offensive language or graphics are not allowed. Guests are encouraged to dress respectfully to maintain the elegant atmosphere.\n        <\/p><br>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Food and Alcohol<\/h4>\n   \n              <p>\n        Bringing outside food or beverages into the casino is strictly prohibited. Guests can enjoy drinks and meals at the on-site bars and restaurants.\n        <\/p>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Guest Condition<\/h4>\n   \n              <p>\n   Entry will be denied to anyone who appears to be intoxicated or under the influence of drugs. The casino reserves the right to refuse service to maintain a safe and respectful environment.\n        <\/p>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Operating Hours<\/h4>\n        <p>\n    The casino is open daily, with slot machines available 24\/7. Table game hours may vary, so it\u2019s recommended to check the schedule in advance.\n        <\/p>\n    <\/div>\n<\/div>\n\n  <h4 style = \"font-weight: bold; font-size: 24px;\">Responsible Gaming<\/h4>\n        <p>\nCasino de Charlevoix promotes responsible gambling. Staff may intervene or restrict access to games if a guest shows signs of addiction or disruptive behavior.\n        <\/p><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino Privil\u00e8ges Loyalty Program at Casino de Charlevoix\n<\/h3>\n\n<p> Every time you play slots, table games, or make purchases at the casino\u2019s bars and restaurants, you earn Privil\u00e8ges Points. These points can be redeemed for gaming credits, complimentary meals, show tickets, and even stays at the luxurious Fairmont Le Manoir Richelieu.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Membership Levels<\/h4>\n        <ul>\n            <li>\u2022 Bronze \u2013 Entry-level status available upon registration.<\/li>\n            <li>\u2022 Privileges Plus \u2013 Achieved with approximately $1,600 in slot play within 12 months.\n<\/li>\n            <li>\u2022 Prestige \u2013 Requires around $35,000 in wagers.\n<\/li>\n   <li>\u2022 Prestige Plus \u2013 The top tier, unlocked with about $400,000 in annual play.\n<\/li>\n        <\/ul>\n        <br>\n <h4 style = \"font-weight: bold; font-size: 24px;\">Exclusive Benefits<\/h4>\n        <p>\n            Members enjoy 15% discounts at casino restaurants and bars, special hotel offers, and invitations to VIP events, tournaments, and private parties. Higher tiers unlock premium perks such as a personal host, airfare reimbursement, birthday bonuses, free parking, and priority reservations. The more you play, the more rewards you earn.\n        <\/p>"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Casino de Charlevoix: Where Gaming Meets World-Class Entertainment",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">Casino du Lac-Leamy bonuses and promotions<\/h3>\n\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Welcome Bonuses for New Players<\/h4>\n         <ul>\n            <li>\u2022 200% bonus up to C$1,000 on your first deposit\n<\/li>\n            <li>\u2022 150% up to C$750 on the second\n<\/li>\n            <li>\u2022 100% up to C$500 on the third\n<\/li>\n         <li>\u2022 50% up to C$250 on the fourth\n\n<\/li>\n         <li>\u2022 Plus 125 free spins on popular slot games\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Progressive Jackpots<\/h4>\n        <p>\n          Slot machines feature progressive jackpots that can reach C$250,000 or more. Games like Huff N\u2019 Even More Puff\u2122 and Rich Little Hens\u2122 offer bonus rounds, free spins, and the chance to win big even with small bets.\n        <\/p>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Table Game Specials<\/h4>\n        <ul>\n            <li>\u2022 Mississippi Stud Poker offers payouts up to 500x bet\n<\/li>\n            <li>\u2022 Free Bet Blackjack includes free double-downs\n<\/li>\n            <li>\u2022 Ultimate Texas Hold\u2019em and 3 Card Poker feature unique combinations and bonus payouts\n\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Promotions and Tournaments<\/h4>\n         <ul>\n            <li>\u2022 Drops & Wins 2025: Daily prizes, weekly spins, and a prize pool of over C$6.3 million\n<\/li>\n            <li>\u2022 Live Casino Tournaments: Regular events with cash prizes and VIP rewards\n<\/li>\n            <li>\u2022 Seasonal Promotions: Bonuses for holidays, birthdays, and special occasions\n\n<\/li>\n        <\/ul>\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular games at Casino de Charlevoix\n<\/h3>\n\n <h4 style = \"font-weight: bold; font-size: 24px;\">Slot Machines<\/h4>\n        <p>\n          Casino de Charlevoix features over 900 slot machines from top providers like IGT, Bally, WMS, and iSoftBet. Bets start from just $0.10, and many machines offer progressive jackpots reaching up to C$250,000.\nPopular titles include:\n        <\/p>\n    <ul>\n            <li>\u2022 Huff N\u2019 Even More Puff\u2122 \u2013 with bonus rounds and progressive jackpots<\/li>\n            <li>\u2022 Rich Little Hens\u2122 \u2013 featuring free spins and multipliers\n<\/li>\n            <li>\u2022 Cleopatra Plus, Fire Burner, Triple Cash Wheel, and Montezuma Megaways \u2013 all with RTPs around 95%\n\n<\/li>\n        <\/ul>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Table Games<\/h4>\n<p>\n           The casino offers around 20 classic table games, including:\n\n        <\/p>\n        <ul>\n            <li>\u2022 Blackjack \u2013 with variants like Free Bet Blackjack offering free double downs\n<\/li>\n            <li>\u2022 Roulette \u2013 both European and American styles\n<\/li>\n            <li>\u2022 Baccarat \u2013 traditional hand comparison game\n<\/li>\n \n            <li>\u2022 Mississippi Stud Poker \u2013 with payouts up to 500x your bet\n<\/li>\n            <li>\u2022 Ultimate Texas Hold\u2019em and 3 Card Poker \u2013 poker games with bonus payouts\n\n<\/li>\n        <\/ul>\n        <br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Electronic Table Games<\/h4>\n        <p>\n          For solo play or learning, electronic versions of table games are available. These allow guests to play poker, blackjack, and roulette on interactive screens with flexible game switching.\n        <\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Keno and Video Poker<\/h4>\n        <p>\n           Casino de Charlevoix also offers Keno, Video Poker, and multi-game stations, allowing players to switch between slots, table games, and other options without changing machines.\n        <\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino de Charlevoix: Minimum and Maximum Betting Limits\n<\/h3>\n\n<p> Whether you're a casual player or a high roller, Casino de Charlevoix offers flexible betting options across its wide range of games. Below is a detailed overview of the minimum and maximum bets allowed:<\/p>\n\n<br>\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#11163d; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slot Machines <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$100+<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Video Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$0.25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$50<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (Free Bet)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$1,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Mississippi Stud Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$500 (up to 500x win)<\/td>\n                <\/tr>\n <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold\u2019em<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$1,000+<\/td>\n                <\/tr>\n <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$5,000<\/td>\n                <\/tr>\n <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">3 Card Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$500<\/td>\n                <\/tr>\n <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Progressive Slot Machines<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$0.25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Jackpots up to C$250,000\n<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents  at Casino de Charlevoix\n<\/h3>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Special Events and Shows<\/h4>\n        <p>\n       One of the most anticipated events is \u201cLoto-Qu\u00e9bec fait son Juste pour rire\u201d, an annual comedy festival held every August. For three weeks, the casino hosts free comedy shows in the unique cabaret-style venue Le Hangar. The program includes:\n        <\/p>\n <ul>\n            <li>\u2022 Comedy Club Nights \u2013 Stand-up performances every Thursday and Friday.\n<\/li>\n            <li>\u2022 Mystery Shows \u2013 Saturdays feature surprise headliners revealed only at showtime.\n<\/li>\n            <li>\u2022 Favourites Night \u2013 Sundays showcase well-known and beloved comedians.\n\n<\/li>\n        <\/ul>\n\n<p>\n           The festival also offers an outdoor giant screen, food trucks, an open-air bar, and vibrant lighting, creating a festive atmosphere.\n        <\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Nightlife and Music Parties<\/h4>\n        <p>\n          The casino\u2019s Bar 21 is the hotspot for nightlife, featuring:\n        <\/p>\n<ul>\n            <li>\u2022 Party Mix Nights \u2013 Every Saturday with live DJs spinning until late.\n<\/li>\n            <li>\u2022 DJ Battle Fridays \u2013 From October to November, eight DJs compete for the resident spot, with winners chosen by the audience and judges.\n<\/li>\n            <li>\u2022 Special Music Nights \u2013 Themed parties for Halloween, New Year\u2019s Eve, and other holidays.\n\n<\/li>\n        <\/ul><br>\n <h4 style = \"font-weight: bold; font-size: 24px;\"> Live Music and Performances<\/h4>\n        <p>\n         Throughout the year, the Les Grands Spectacles Petit Manoir du Casino series brings top artists like Roch Voisine, Fouki, and Annie Villeneuve, along with tribute shows honoring Kiss, Bryan Adams, and more.\n\n        <\/p><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Seasonal and Themed Events<\/h4>\n        <ul>\n            <li>\u2022 Halloween parties with costumes, contests, and live music.<\/li>\n            <li>\u2022 New Year\u2019s Eve celebrations featuring fireworks and gourmet dinners.\n<\/li>\n            <li>\u2022 Spring and summer festivals with street performers, markets, and food zones.\n<\/li>\n  <li>\u2022 Charity events, such as water challenges for fundraising.\n\n<\/li>\n        <\/ul>\n        <br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLuxury Dining, Relaxation, and Entertainment at Casino de Charlevoix\n<\/h3>\n\n<p> Casino de Charlevoix is more than just a gaming destination \u2014 it\u2019s a complete resort experience that combines fine dining, elegant accommodations, and vibrant entertainment in the heart of Quebec\u2019s scenic Charlevoix region. Whether you're visiting for the thrill of the games or the tranquility of the surroundings, the casino offers a refined atmosphere where leisure and luxury meet.<\/p>\n<br>\n<p> Guests can indulge in a variety of culinary experiences without leaving the property. The casino features several restaurants, each offering a distinct ambiance and menu. Le Saint-Laurent serves gourmet cuisine with breathtaking views of the St. Lawrence River, while Le Bellerive provides a relaxed setting ideal for casual meals and family gatherings. For those craving comfort food, St-Hubert sign\u00e9 Casino delivers Quebec\u2019s iconic rotisserie chicken and BBQ specialties in a modern, welcoming space. Bars like Bar 21 and La Brise Bar offer handcrafted cocktails, local wines, and live music, creating the perfect setting for socializing after a day of gaming.<\/p>\n<br>\n<p> Connected directly to the casino is the prestigious Fairmont Le Manoir Richelieu, a five-star hotel that blends historic charm with contemporary comfort. With over 400 rooms, a full-service spa, indoor and outdoor pools, and a 27-hole golf course, the hotel is a destination in itself. Guests can enjoy panoramic views of the Laurentian Mountains and the St. Lawrence River, making it an ideal retreat for couples, families, and business travelers alike.<\/p>\n<br>\n<p> Entertainment is a key part of the Casino de Charlevoix experience. Throughout the year, the resort hosts themed parties, comedy nights, live concerts, and seasonal festivals. Events like DJ Battle Fridays and Party Mix Nights bring energy to the casino floor, while special shows in the Le Hangar cabaret venue showcase top comedians and musical acts. Whether you're dancing the night away or enjoying a quiet evening with live jazz, there\u2019s always something happening.<\/p>\n<br>\n<p>For those seeking relaxation, the resort offers wellness packages that include spa treatments, gourmet dining, and access to thermal pools. Guests can also take advantage of exclusive promotions and loyalty rewards through the Casino Privil\u00e8ges program, which offers discounts, free meals, and VIP access to events.<\/p>\n<br>\n<p> Casino de Charlevoix is a destination where entertainment, elegance, and excitement come together. From luxurious hotel stays and fine dining to thrilling games and unforgettable shows, every visit promises a rich and memorable experience.<\/p>\n<br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need to book my visit in advance?",
+                    "answer": "No, booking is not required, but it is recommended for events and hotel accommodations.\n\n\n"
+                },
+                {
+                    "title": "What security measures are in place?",
+                    "answer": "The casino uses video surveillance, on-site security, and data protection systems to ensure guest safety.\n\n\n"
+                },
+                {
+                    "title": "Can I pay with a card?",
+                    "answer": "Yes, major credit and debit cards are accepted.\n"
+                },
+                {
+                    "title": "Can I stay near the casino?",
+                    "answer": "Yes, the casino is connected to the luxurious Fairmont Le Manoir Richelieu hotel, where you can book a room."
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/198",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Paf Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

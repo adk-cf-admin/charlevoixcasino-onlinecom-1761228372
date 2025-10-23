@@ -1,0 +1,19 @@
+{
+  "name": "Casino de Charlevoix",
+  "short_name": "Casino de Charlevoix",
+  "theme_color": "",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1761226553-unnamed-2-cr-cr-removebg-preview.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
